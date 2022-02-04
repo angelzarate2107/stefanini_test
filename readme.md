@@ -29,7 +29,7 @@ A list of technologies used within the project:
 ***
 Bear and Bees
 ```
-$ git https://github.com/angelzarate2107/stefanini_test/blob/main/readme.md
+$ git clone https://github.com/angelzarate2107/stefanini_test
 $ cd ./stefanini_test/bear_and_bees
 $ go run main.go
 
@@ -37,7 +37,7 @@ $ go run main.go
 ***
 Secuencial vs Paralelismo 
 ```
-$ git https://github.com/angelzarate2107/stefanini_test/blob/main/readme.md
+$ git clone https://github.com/angelzarate2107/stefanini_test
 $ cd ./stefanini_test/seq_paralelo
 $ go run main.go
 ```
