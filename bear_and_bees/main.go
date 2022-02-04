@@ -1,6 +1,6 @@
 package main
 
-import "beer_and_bees/worker"
+import "bear_and_bees/worker"
 
 /*
 	Autor: Angel Zarate

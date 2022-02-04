@@ -1,8 +1,8 @@
 package worker
 
 import (
-	"beer_and_bees/entity"
-	"beer_and_bees/honey_comb"
+	"bear_and_bees/entity"
+	"bear_and_bees/honey_comb"
 	"sync"
 )
 

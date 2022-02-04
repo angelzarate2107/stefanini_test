@@ -1,7 +1,7 @@
 package entity
 
 import (
-	"beer_and_bees/honey_comb"
+	"bear_and_bees/honey_comb"
 	"fmt"
 	"sync"
 	"time"
